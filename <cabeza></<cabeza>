@@ -1,0 +1,21 @@
+3b - 93
+
+ 0 float m_Radius = 0.0991539806
+ 0 float m_Height = 0.180384234
+ 0 int m_Direction = 0
+ 0 Vector3f m_Center
+  0 float x = -0.0507753901
+  0 float y = 1.99694186e-005 
+  0 float z = -3.7252903e-009
+
+
+ee3 - 51
+
+ 0 float m_Radius = 0.0229356941
+ 0 float m_Height = 0.0616359636
+ 0 int m_Direction = 0
+ 0 Vector3f m_Center
+  0 float x = -0.0268035512
+  0 float y = 0.00101278909
+  0 float z = -0.00143164769
+3b3b9dbedb8008040b5c6b40752acd9b
